@@ -1,0 +1,25 @@
+{
+  "name": "passport-weixin-plus",
+  "version": "0.0.4",
+  "description": "passport oauth2 strategy for weixin, Support different appids and appsecrets based on different requests",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "weixin",
+    "oauth2",
+    "strategy"
+  ],
+  "author": "lutaoact",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lutaoact/passport-weixin-plus.git"
+  }
+}
